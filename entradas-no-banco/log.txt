@@ -1,0 +1,11 @@
+[2017-10-31 9:3:30] - Abertura da Porta OK
+[2017-10-31 23:3:30] - Abertura da Porta OK
+[2017-10-31 12:3:30] - Abertura da Porta OK
+[2017-10-31 14:3:30] - Abertura da Porta OK
+[2017-10-01 9:3:30] - Abertura da Porta OK
+
+[2017-10-01 72:3:30] - Abertura da Porta OK
+[2017-10-01 23:3:30] - Abertura da Porta OK
+[2017-10-01 12:3:30] - Abertura da Porta OK
+[2017-10-01 16:3:30] - Abertura da Porta OK
+[2017-10-01 15:3:30] - Abertura da Porta lalal
